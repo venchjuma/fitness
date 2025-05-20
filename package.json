@@ -2,7 +2,7 @@
    "name": "suhail-md",
    "version": "1.3.9",
    "description": "Multi device whatsapp bot.",
-   "main": "queen.js",
+   "main": "index.js",
    "type": "commonjs",  
    "scripts": {
             "run": "pm2 start . --deep-monitoring --attach --name Suhail || node .",
